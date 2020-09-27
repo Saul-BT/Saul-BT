@@ -6,7 +6,7 @@
 </p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=saul-bt&show_icons=true)
-![trophies](https://github-profile-trophy.vercel.app/?username=saul-bt&column=3&margin-w=15&margin-h=15)
+![trophies](https://github-profile-trophy.vercel.app/?username=saul-bt&margin-w=15&margin-h=15)
 
 
 
