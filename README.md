@@ -5,8 +5,10 @@
   <a href="https://saul-bt.github.io/blog" target="_blank">Blog</a>
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=saul-bt&show_icons=true)
-![trophies](https://github-profile-trophy.vercel.app/?username=saul-bt&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saul-bt&hide_title=true&show_icons=true" alt="stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saul-bt&column=3&margin-w=5&margin-h=5" alt="trophies" />
+<p align="center">
 
 
 
