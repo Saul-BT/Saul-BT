@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://app.codecrafters.io/users/Saul-BT" target="_blank">
-    <img src="https://backend.codecrafters.io/progress/shell/33a15f2d-d9f6-401c-b5af-e9a18ba88dd6" alt="Build your own X progress" />
+    <img height="50" src="https://backend.codecrafters.io/progress/shell/33a15f2d-d9f6-401c-b5af-e9a18ba88dd6" alt="Build your own X progress" />
   </a>
 </p>
 
